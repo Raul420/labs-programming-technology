@@ -1,0 +1,6 @@
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\bin\Debug\Divider.exe.config
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\obj\Debug\Divider.csprojResolveAssemblyReference.cache
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\bin\Debug\Divider.exe
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\bin\Debug\Divider.pdb
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\obj\Debug\Divider.exe
+C:\Users\bach\Desktop\Raul\Labs\lab 01\ex 04\Divider\Divider\obj\Debug\Divider.pdb

@@ -1,0 +1,12 @@
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\bach\Desktop\Raul\Programs\lab1\ex2\Greetings\Greetings\obj\Debug\Greetings.pdb
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\obj\Debug\Greetings.exe
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\obj\Debug\Greetings.pdb
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\bin\Debug\Greetings.exe
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\bin\Debug\Greetings.pdb
+C:\Users\bach\Desktop\Raul\Programs\lab 01\ex 02\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache

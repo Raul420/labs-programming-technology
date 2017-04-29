@@ -1,0 +1,6 @@
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\bin\Debug\StructType.exe.config
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\obj\Debug\StructType.csprojResolveAssemblyReference.cache
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\bin\Debug\StructType.exe
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\bin\Debug\StructType.pdb
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\obj\Debug\StructType.exe
+C:\Users\bach\Desktop\lab02\ex02\StructType\StructType\obj\Debug\StructType.pdb

@@ -1,0 +1,18 @@
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe.config
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.csprojResolveAssemblyReference.cache
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.pdb
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.exe
+C:\Users\bach\Desktop\Raul\Labs\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.pdb
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe.config
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.exe
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.pdb
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.pdb
+F:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.csprojResolveAssemblyReference.cache
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe.config
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.exe
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.pdb
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.exe
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\bin\Debug\EX 05.pdb
+G:\Labs RAUL\lab 01\EX 05\EX 05\EX 05\obj\Debug\EX 05.csprojResolveAssemblyReference.cache
