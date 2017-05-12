@@ -1,0 +1,9 @@
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe.config
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.pdb
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csprojResolveAssemblyReference.cache
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.exe
+c:\users\raul\documents\visual studio 2015\Projects\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.pdb
+E:\lab 03\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe.config
+E:\lab 03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.exe
+E:\lab 03\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.pdb

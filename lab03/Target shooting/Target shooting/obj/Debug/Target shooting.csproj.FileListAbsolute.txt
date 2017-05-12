@@ -1,0 +1,6 @@
+E:\lab 03\Target shooting\Target shooting\bin\Debug\Target shooting.exe.config
+E:\lab 03\Target shooting\Target shooting\obj\Debug\Target shooting.csprojResolveAssemblyReference.cache
+E:\lab 03\Target shooting\Target shooting\bin\Debug\Target shooting.exe
+E:\lab 03\Target shooting\Target shooting\bin\Debug\Target shooting.pdb
+E:\lab 03\Target shooting\Target shooting\obj\Debug\Target shooting.exe
+E:\lab 03\Target shooting\Target shooting\obj\Debug\Target shooting.pdb
