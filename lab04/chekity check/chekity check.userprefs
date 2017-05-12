@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B48633F5-93CF-44C4-84C3-E1C832970421}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="chekity check/Program.cs">
+    <Files>
+      <File FileName="chekity check/Program.cs" Line="17" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.chekity_220check PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+E:/lab 04/chekity check/chekity check/bin/Debug/chekity check.exe.config
+E:/lab 04/chekity check/chekity check/obj/Debug/chekity check.csprojResolveAssemblyReference.cache
+E:/lab 04/chekity check/chekity check/bin/Debug/chekity check.exe
+E:/lab 04/chekity check/chekity check/bin/Debug/chekity check.pdb
+E:/lab 04/chekity check/chekity check/obj/Debug/chekity check.exe
+E:/lab 04/chekity check/chekity check/obj/Debug/chekity check.pdb
+/Users/raul/Documents/lab 04/chekity check/chekity check/bin/Debug/chekity check.exe.config
+/Users/raul/Documents/lab 04/chekity check/chekity check/bin/Debug/chekity check.exe
+/Users/raul/Documents/lab 04/chekity check/chekity check/bin/Debug/chekity check.pdb
+/Users/raul/Documents/lab 04/chekity check/chekity check/obj/Debug/chekity check.csprojResolveAssemblyReference.cache
+/Users/raul/Documents/lab 04/chekity check/chekity check/obj/Debug/chekity check.csproj.CoreCompileInputs.cache
+/Users/raul/Documents/lab 04/chekity check/chekity check/obj/Debug/chekity check.exe
+/Users/raul/Documents/lab 04/chekity check/chekity check/obj/Debug/chekity check.pdb

@@ -1,0 +1,13 @@
+E:/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.exe.config
+E:/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.exe
+E:/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.pdb
+E:/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.csprojResolveAssemblyReference.cache
+E:/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.exe
+E:/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.pdb
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.exe.config
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.exe
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/bin/Debug/Quadric Equation.pdb
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.csprojResolveAssemblyReference.cache
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.csproj.CoreCompileInputs.cache
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.exe
+/Users/raul/Documents/lab 04/Quadric Equation/Quadric Equation/obj/Debug/Quadric Equation.pdb

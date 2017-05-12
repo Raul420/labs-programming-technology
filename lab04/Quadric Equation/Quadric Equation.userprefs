@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{52700CE6-0373-4C5B-9735-AED5BB78D6B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Quadric Equation/Program.cs">
+    <Files>
+      <File FileName="Quadric Equation/Program.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Quadric_220Equation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

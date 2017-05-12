@@ -1,0 +1,13 @@
+E:/lab 04/Utils/Utils/bin/Debug/Utils.exe.config
+E:/lab 04/Utils/Utils/obj/Debug/Utils.csprojResolveAssemblyReference.cache
+E:/lab 04/Utils/Utils/bin/Debug/Utils.exe
+E:/lab 04/Utils/Utils/bin/Debug/Utils.pdb
+E:/lab 04/Utils/Utils/obj/Debug/Utils.exe
+E:/lab 04/Utils/Utils/obj/Debug/Utils.pdb
+/Users/raul/Documents/lab 04/Utils/Utils/bin/Debug/Utils.exe.config
+/Users/raul/Documents/lab 04/Utils/Utils/bin/Debug/Utils.exe
+/Users/raul/Documents/lab 04/Utils/Utils/bin/Debug/Utils.pdb
+/Users/raul/Documents/lab 04/Utils/Utils/obj/Debug/Utils.csprojResolveAssemblyReference.cache
+/Users/raul/Documents/lab 04/Utils/Utils/obj/Debug/Utils.csproj.CoreCompileInputs.cache
+/Users/raul/Documents/lab 04/Utils/Utils/obj/Debug/Utils.exe
+/Users/raul/Documents/lab 04/Utils/Utils/obj/Debug/Utils.pdb
